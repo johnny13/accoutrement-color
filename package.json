@@ -1,12 +1,12 @@
 {
-  "name": "accoutrement-color",
-  "title": "Accoutrement: Color",
-  "version": "2.3.1",
+  "name": "shot-of-color",
+  "title": "Shot of Color",
+  "version": "0.0.1",
   "description": "Sass color-palette management and utilities.",
-  "homepage": "http://oddbird.net/accoutrement-color/",
+  "homepage": "https://github.com/johnny13/shot-of-color/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oddbird/accoutrement-color.git"
+    "url": "https://github.com/johnny13/shot-of-color.git"
   },
   "devDependencies": {
     "beeper": "^1.1.1",
@@ -19,7 +19,7 @@
     "sassdoc": "^2.5.0",
     "sassdoc-theme-herman": "^2.1.0"
   },
-  "author": "Miriam Suzanne <miriam@oddbird.net>",
+  "author": "Derek Scott <derek@huement.com>",
   "license": "MIT",
   "keywords": [
     "sass",
@@ -30,9 +30,9 @@
   ],
   "eyeglass": {
     "sassDir": "sass",
-    "exports": false,
-    "name": "accoutrement-color",
-    "needs": "^1.0.0"
+    "exports": "eyeglass-exports.js",
+    "name": "shot-of-color",
+    "needs": "^3.0.0"
   },
   "scripts": {
     "test": "node_modules/.bin/mocha",

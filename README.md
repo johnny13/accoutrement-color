@@ -1,23 +1,28 @@
-Accoutrement-Color
+Shot-of-Color
 ==================
-
-**Sass color-palette management by [OddBird][oddbird]…**
 
 - Organize all your colors into a single map, or set of maps
 - Document color relationships directly in the code
 - Automate [WCAG-appropriate][wcag] contrast checking
 - Generate color-palette documentation with [Herman][Herman]
 
-[oddbird]: http://oddbird.net/
 [wcag]: http://www.w3.org/TR/2008/REC-WCAG20-20081211/#contrast-ratiodef
 
-OddBird's Accoutrement toolkits are designed around the idea
-that code should be meaningful to both humans and machines –
-opening the door for automation,
-while improving or maintaining readability.
-These tools integrate with [Herman][Herman],
-our automated living pattern-library generator
-built on [SassDoc][SassDoc].
+Huement's "Shots" line of tools are comprised of modular chunks of code that each focus on a specific front-end area.
+There are a number of guiding principals at work.
+
+	1. Buy the ticket, Take the ride.
+ 		-> Each module should be self contained. 
+	2. Money. Complements, and Publicity.
+		-> Todd Snider Rules
+	3. ... lorem ipsum ...
+		-> todo
+		....
+
+
+> These tools integrate with [Herman][Herman],
+> our automated living pattern-library generator
+> built on [SassDoc][SassDoc].
 
 [Herman]: http://oddbird.net/herman/
 [SassDoc]: http://sassdoc.com/
